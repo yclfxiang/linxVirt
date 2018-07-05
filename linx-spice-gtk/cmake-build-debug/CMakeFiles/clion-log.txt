@@ -1,0 +1,8 @@
+/home/pencc/下载/clion-2017.3.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/pencc/桌面/spice-gtk-0.28
+CMake Error at CMakeLists.txt:8 (target_link_libraries):
+  Cannot specify link libraries for target "/lib/x86_64-linux-gnu" which is
+  not built by this project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/CMakeFiles/CMakeOutput.log".

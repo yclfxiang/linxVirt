@@ -1,0 +1,7 @@
+* implement migration support with client fd
+* create a ChannelBaseAudio
+* revive the win32 GDI backend
+
+See also list of bugs open:
+
+https://bugs.freedesktop.org/buglist.cgi?product=Spice&component=gtk-client&resolution=---&list_id=281013

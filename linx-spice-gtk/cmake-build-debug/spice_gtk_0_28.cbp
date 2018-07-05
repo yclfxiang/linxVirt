@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="spice_gtk_0_28"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="spice_gtk_0_28">
+				<Option output="/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/spice_gtk_0_28" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 spice_gtk_0_28"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="spice_gtk_0_28/fast">
+				<Option output="/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/spice_gtk_0_28" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 spice_gtk_0_28/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/config.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/bio-gio.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/bio-gio.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-base.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-cursor.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-cursor.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-display-mjpeg.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-display-priv.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-display.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-display.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-inputs.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-inputs.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-main.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-main.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-playback-priv.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-playback.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-playback.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-port.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-port.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-record.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-record.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-smartcard.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-smartcard.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-usbredir-priv.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-usbredir.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-usbredir.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-webdav.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/channel-webdav.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/client_sw_canvas.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/client_sw_canvas.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/continuation.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/continuation.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/controller.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/custom.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/dump.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/foreign-menu.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/menu.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/namedpipe.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/namedpipe.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/namedpipeconnection.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/namedpipeconnection.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/namedpipelistener.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/namedpipelistener.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/spice-controller-listener.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/spice-controller-listener.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/spice-controller.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/spice-foreign-menu-listener.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/spice-foreign-menu-listener.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/test.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/util.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/win32-util.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/controller/win32-util.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/coroutine.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/coroutine_gthread.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/coroutine_ucontext.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/coroutine_winfibers.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/decode-glz-tmpl.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/decode-glz.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/decode-jpeg.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/decode-zlib.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/decode.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/desktop-integration.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/desktop-integration.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/gio-coroutine.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/gio-coroutine.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/giopipe.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/giopipe.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/glib-compat.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/glib-compat.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/gtk-compat.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/smartcard-manager-priv.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/smartcard-manager.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/smartcard-manager.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-audio-priv.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-audio.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-audio.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-channel-cache.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-channel-enums.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-channel-priv.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-channel.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-channel.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-client-glib-usb-acl-helper.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-client-gtk-module.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-client.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-client.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-cmdline.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-cmdline.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-common.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-glib-enums.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-glib-enums.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-grabsequence.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-grabsequence.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-gstaudio.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-gstaudio.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-gtk-session-priv.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-gtk-session.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-gtk-session.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-marshal.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-marshal.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-option.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-option.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-pulse.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-pulse.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-session-priv.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-session.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-session.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-types.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-uri-priv.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-uri.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-uri.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-util-priv.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-util.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-util.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-version.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-widget-cairo.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-widget-enums.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-widget-enums.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-widget-priv.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-widget-x11.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-widget.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spice-widget.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spicy-screenshot.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spicy-stats.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/spicy.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/usb-acl-helper.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/usb-acl-helper.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/usb-device-manager-priv.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/usb-device-manager.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/usb-device-manager.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/usb-device-widget.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/usb-device-widget.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/usbutil.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/usbutil.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/vmcstream.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/vmcstream.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/vncdisplaykeymap.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/vncdisplaykeymap.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/vncdisplaykeymap_osx2xtkbd.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/vncdisplaykeymap_win322xtkbd.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/vncdisplaykeymap_x112xtkbd.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/vncdisplaykeymap_xorgevdev2xtkbd.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/vncdisplaykeymap_xorgkbd2xtkbd.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/vncdisplaykeymap_xorgxquartz2xtkbd.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/vncdisplaykeymap_xorgxwin2xtkbd.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/win-usb-clerk.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/win-usb-dev.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/win-usb-dev.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/win-usb-driver-install.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/win-usb-driver-install.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/wocky-http-proxy.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/gtk/wocky-http-proxy.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/backtrace.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/backtrace.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/bitops.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/canvas_base.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/canvas_base.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/canvas_utils.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/canvas_utils.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/client_demarshallers.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/client_marshallers.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/draw.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/gdi_canvas.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/gdi_canvas.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/generated_client_demarshallers.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/generated_client_demarshallers1.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/generated_client_marshallers.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/generated_client_marshallers1.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/generated_server_demarshallers.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/generated_server_marshallers.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/generated_server_marshallers.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/gl_canvas.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/gl_canvas.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/gl_utils.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/glc.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/glc.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/lines.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/lines.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/log.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/log.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/lz.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/lz.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/lz_common.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/lz_compress_tmpl.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/lz_config.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/lz_decompress_tmpl.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/macros.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/marshaller.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/marshaller.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/mem.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/mem.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/messages.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/ogl_ctx.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/ogl_ctx.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/pixman_utils.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/pixman_utils.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/quic.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/quic.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/quic_config.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/quic_family_tmpl.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/quic_rgb_tmpl.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/quic_tmpl.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/rect.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/region.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/region.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/ring.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/rop3.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/rop3.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/snd_codec.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/snd_codec.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/spice_common.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/ssl_verify.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/ssl_verify.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/sw_canvas.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/sw_canvas.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/common/verify.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/config.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/spice-protocol/config.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/spice-protocol/spice/barrier.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/spice-protocol/spice/controller_prot.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/spice-protocol/spice/end-packed.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/spice-protocol/spice/enums.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/spice-protocol/spice/error_codes.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/spice-protocol/spice/foreign_menu_prot.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/spice-protocol/spice/ipc_ring.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/spice-protocol/spice/macros.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/spice-protocol/spice/protocol.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/spice-protocol/spice/qxl_dev.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/spice-protocol/spice/qxl_windows.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/spice-protocol/spice/start-packed.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/spice-protocol/spice/stats.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/spice-protocol/spice/types.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/spice-protocol/spice/vd_agent.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/spice-common/spice-protocol/spice/vdi_dev.h">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/tests/coroutine.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/tests/pipe.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/tests/session.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/tests/util.c">
+			<Option target="spice_gtk_0_28"/>
+		</Unit>
+		<Unit filename="/home/pencc/桌面/spice-gtk-0.28/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

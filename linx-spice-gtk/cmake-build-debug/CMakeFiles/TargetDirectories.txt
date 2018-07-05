@@ -1,0 +1,3 @@
+/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pencc/桌面/spice-gtk-0.28/cmake-build-debug/CMakeFiles/spice_gtk_0_28.dir
